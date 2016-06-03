@@ -1,0 +1,22 @@
+{
+  "name": "pikupheader",
+  "version": "2.0.0",
+  "description": "a search bar that will show matches and will give us result ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi269/Search-Bar.git"
+  },
+  "keywords": [
+    "letsgetstarted"
+  ],
+  "author": "Abhishek Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhi269/Search-Bar/issues"
+  },
+  "homepage": "https://github.com/abhi269/Search-Bar#readme"
+}
